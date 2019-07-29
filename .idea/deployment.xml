@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="apache01">
+    <serverData>
+      <paths name="apache01">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/java_test" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/java_test/helloworld" local="$PROJECT_DIR$/20190729_V1.0_helloworld" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

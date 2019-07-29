@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20190729_V1.0_helloworld/20190729_V1.0_helloworld.iml" filepath="$PROJECT_DIR$/20190729_V1.0_helloworld/20190729_V1.0_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190729_V1.1_for/20190729_V1.1_for.iml" filepath="$PROJECT_DIR$/20190729_V1.1_for/20190729_V1.1_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_test.iml" filepath="$PROJECT_DIR$/java_test.iml" />
+    </modules>
+  </component>
+</project>
